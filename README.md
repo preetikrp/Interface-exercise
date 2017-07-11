@@ -1,1 +1,2 @@
 # Interface-exercise
+Class Exercise.
