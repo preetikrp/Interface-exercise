@@ -1,2 +1,2 @@
 # Interface-exercise
-Class Exercise.
+Class Exercise-Steve Brownlee, from Repo NSS Cohort 19.
